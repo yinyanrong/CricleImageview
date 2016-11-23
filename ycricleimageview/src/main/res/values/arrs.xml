@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CricleImageView">
+        <attr name="borderRadius" format="dimension"></attr>
+        <attr name="showBorder" format="boolean"/>
+        <attr name="borderColor" format="color"></attr>
+        <attr name="borderWidth" format="dimension"></attr>
+        <attr name="src" format="reference"></attr>
+        <attr name="type">
+            <enum name="circle" value="0"></enum>
+            <enum name="round"  value="1"></enum>
+        </attr>
+    </declare-styleable>
+
+</resources>

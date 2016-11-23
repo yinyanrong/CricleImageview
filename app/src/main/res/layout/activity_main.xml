@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+  <LinearLayout
+android:layout_width="200dp"
+android:layout_height="300dp">
+<view.custom.yyr.com.ycricleimageview.CricleImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/view"
+    app:type="circle"
+    app:src="@mipmap/sss"
+    app:showBorder="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+/>
+</LinearLayout>
+    </RelativeLayout>
