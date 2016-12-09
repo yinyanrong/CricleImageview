@@ -1,3 +1,5 @@
 # CricleImageview
 A rounded corners of the image
-这是我自己的一个ImageView圆角的项目
+自定义ImageView圆角
+
+![示例图](https://github.com/yinyanrong/CricleImageview/blob/master/image/20161209102128.png)
